@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-#Stanford University
-##M.S. in Electrical Engineering
+
+## Stanford University
+### M.S. in Electrical Engineering
 > Sep 2018 - Present  
 > GPA: 3.87/4.00  
 > Core Courses:  
@@ -22,8 +23,8 @@ redirect_from:
 > * CS108: Object-Oriented System Design
 
 
-#Tsinghua University
-##B.E. in Microelectrinic Science and Engineering
+## Tsinghua University
+### B.E. in Microelectrinic Science and Engineering
 > Aug 2014 - Jul 2018  
 > GPA: 90.1/100  
 > Rank: Top 1  
